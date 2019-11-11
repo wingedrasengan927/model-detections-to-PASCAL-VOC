@@ -6,3 +6,9 @@ This project helps to semi-automate the labelling process for object detection m
 
 first clone this repository into your machine and then clone the tensorflow models directory into this directory, and follow the installation instructions for the object detection model given there.
 the models repository can be found here https://github.com/tensorflow/models
+
+## How to use 
+
+After setup, put the image you want to use into the '''input_images''' folder
+'''
+'''
