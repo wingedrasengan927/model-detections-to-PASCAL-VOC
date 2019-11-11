@@ -9,7 +9,8 @@ from format_xml_file import format_tree
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--image_name", type=str, help="path to the input image")
+    parser.add_argument("--image_name", type=str, default='naassom-azevedo-Q_Sei-TqSlc-unsplash', help="name of the input image, \
+                        must be a .jpg file")
     args = parser.parse_args()
 
     # get model predictions
