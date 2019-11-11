@@ -9,6 +9,7 @@ the models repository can be found here https://github.com/tensorflow/models
 
 ## How to use 
 
-After setup, put the image you want to use into the '''input_images''' folder
+After setup, put the image you want to use into the 
 '''
+input_images
 '''
